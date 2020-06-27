@@ -1,2 +1,2 @@
 # DeadlyWords
-Hangman and 2D platformer combined- made in python3 
+Hangman and 2D platformer combined- made in python3 .
